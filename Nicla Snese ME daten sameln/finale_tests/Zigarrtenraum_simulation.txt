@@ -1,0 +1,210 @@
+timestamp;temperature;gas;humidity;barometer;IAQ;IAQ_S;VOCS;accuracy;humidty_corrected;temp_corrected
+2025-11-04 11:58:24;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:58:24;Abs_box: 0.00000
+2025-11-04 11:58:24;Abs_intern: 0.00000
+2025-11-04 11:58:24;Auﬂenluft: 0.00000
+2025-11-04 11:58:24;Kochen: 0.00000
+2025-11-04 11:58:24;Luft: 0.99609
+2025-11-04 11:58:24;SchlechteLuft: 0.00000
+2025-11-04 11:58:24;ZigaretenrauchBox: 0.00000
+2025-11-04 11:58:25;ZigaretenrauchRaum: 0.00000
+2025-11-04 11:58:25;LED set to class 'Luft' (1.00)
+2025-11-04 11:58:25;temperature=28.25∞C, barometer=1000.23hPa, humidity=37.00%, gas=94771.00,  temepKorkt=22.25, humKorkt=52.87
+2025-11-04 11:58:25;
+2025-11-04 11:58:25;Starting inferencing in 2 seconds...
+2025-11-04 11:58:26;Sampling...
+2025-11-04 11:58:26;Free heap memory: 1492 bytes
+2025-11-04 11:58:36;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:58:36;Abs_box: 0.00000
+2025-11-04 11:58:36;Abs_intern: 0.00000
+2025-11-04 11:58:36;Auﬂenluft: 0.23438
+2025-11-04 11:58:36;Kochen: 0.00000
+2025-11-04 11:58:36;Luft: 0.73828
+2025-11-04 11:58:36;SchlechteLuft: 0.00000
+2025-11-04 11:58:37;ZigaretenrauchBox: 0.00000
+2025-11-04 11:58:37;ZigaretenrauchRaum: 0.02344
+2025-11-04 11:58:37;LED set to class 'Luft' (0.74)
+2025-11-04 11:58:37;temperature=28.41∞C, barometer=1000.26hPa, humidity=39.00%, gas=71958.00,  temepKorkt=22.41, humKorkt=55.70
+2025-11-04 11:58:37;
+2025-11-04 11:58:37;Starting inferencing in 2 seconds...
+2025-11-04 11:58:38;Sampling...
+2025-11-04 11:58:38;Free heap memory: 1492 bytes
+2025-11-04 11:58:48;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:58:48;Abs_box: 0.01563
+2025-11-04 11:58:48;Abs_intern: 0.00000
+2025-11-04 11:58:48;Auﬂenluft: 0.00781
+2025-11-04 11:58:48;Kochen: 0.00000
+2025-11-04 11:58:48;Luft: 0.00000
+2025-11-04 11:58:48;SchlechteLuft: 0.81250
+2025-11-04 11:58:49;ZigaretenrauchBox: 0.01563
+2025-11-04 11:58:49;ZigaretenrauchRaum: 0.14844
+2025-11-04 11:58:49;LED set to class 'SchlechteLuft' (0.81)
+2025-11-04 11:58:49;temperature=28.54∞C, barometer=1000.27hPa, humidity=41.00%, gas=69403.00,  temepKorkt=22.54, humKorkt=58.54
+2025-11-04 11:58:49;
+2025-11-04 11:58:49;Starting inferencing in 2 seconds...
+2025-11-04 11:58:50;Sampling...
+2025-11-04 11:58:50;Free heap memory: 1492 bytes
+2025-11-04 11:59:00;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:59:00;Abs_box: 0.00781
+2025-11-04 11:59:00;Abs_intern: 0.00000
+2025-11-04 11:59:00;Auﬂenluft: 0.00000
+2025-11-04 11:59:00;Kochen: 0.00000
+2025-11-04 11:59:00;Luft: 0.00000
+2025-11-04 11:59:01;SchlechteLuft: 0.89844
+2025-11-04 11:59:01;ZigaretenrauchBox: 0.00000
+2025-11-04 11:59:01;ZigaretenrauchRaum: 0.09375
+2025-11-04 11:59:01;LED set to class 'SchlechteLuft' (0.90)
+2025-11-04 11:59:01;temperature=28.65∞C, barometer=1000.26hPa, humidity=42.00%, gas=62628.00,  temepKorkt=22.65, humKorkt=59.95
+2025-11-04 11:59:01;
+2025-11-04 11:59:01;Starting inferencing in 2 seconds...
+2025-11-04 11:59:02;Sampling...
+2025-11-04 11:59:02;Free heap memory: 1492 bytes
+2025-11-04 11:59:12;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:59:12;Abs_box: 0.00000
+2025-11-04 11:59:12;Abs_intern: 0.00000
+2025-11-04 11:59:12;Auﬂenluft: 0.00000
+2025-11-04 11:59:12;Kochen: 0.00000
+2025-11-04 11:59:12;Luft: 0.00000
+2025-11-04 11:59:13;SchlechteLuft: 0.01172
+2025-11-04 11:59:13;ZigaretenrauchBox: 0.00000
+2025-11-04 11:59:13;ZigaretenrauchRaum: 0.98828
+2025-11-04 11:59:13;LED set to class 'ZigaretenrauchRaum' (0.99)
+2025-11-04 11:59:13;temperature=28.71∞C, barometer=1000.27hPa, humidity=42.00%, gas=62488.00,  temepKorkt=22.71, humKorkt=59.94
+2025-11-04 11:59:13;
+2025-11-04 11:59:13;Starting inferencing in 2 seconds...
+2025-11-04 11:59:14;Sampling...
+2025-11-04 11:59:14;Free heap memory: 1492 bytes
+2025-11-04 11:59:24;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:59:24;Abs_box: 0.00000
+2025-11-04 11:59:24;Abs_intern: 0.00000
+2025-11-04 11:59:24;Auﬂenluft: 0.00000
+2025-11-04 11:59:24;Kochen: 0.00000
+2025-11-04 11:59:25;Luft: 0.00000
+2025-11-04 11:59:25;SchlechteLuft: 0.01172
+2025-11-04 11:59:25;ZigaretenrauchBox: 0.00000
+2025-11-04 11:59:25;ZigaretenrauchRaum: 0.98828
+2025-11-04 11:59:25;LED set to class 'ZigaretenrauchRaum' (0.99)
+2025-11-04 11:59:25;temperature=28.76∞C, barometer=1000.26hPa, humidity=42.00%, gas=64060.00,  temepKorkt=22.76, humKorkt=59.93
+2025-11-04 11:59:25;
+2025-11-04 11:59:25;Starting inferencing in 2 seconds...
+2025-11-04 11:59:26;Sampling...
+2025-11-04 11:59:26;Free heap memory: 1492 bytes
+2025-11-04 11:59:36;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:59:36;Abs_box: 0.00000
+2025-11-04 11:59:36;Abs_intern: 0.00000
+2025-11-04 11:59:36;Auﬂenluft: 0.00000
+2025-11-04 11:59:36;Kochen: 0.00000
+2025-11-04 11:59:37;Luft: 0.00000
+2025-11-04 11:59:37;SchlechteLuft: 0.01953
+2025-11-04 11:59:37;ZigaretenrauchBox: 0.00391
+2025-11-04 11:59:37;ZigaretenrauchRaum: 0.97656
+2025-11-04 11:59:37;LED set to class 'ZigaretenrauchRaum' (0.98)
+2025-11-04 11:59:37;temperature=28.85∞C, barometer=1000.23hPa, humidity=40.00%, gas=72768.00,  temepKorkt=22.85, humKorkt=57.07
+2025-11-04 11:59:37;
+2025-11-04 11:59:37;Starting inferencing in 2 seconds...
+2025-11-04 11:59:38;Sampling...
+2025-11-04 11:59:38;Free heap memory: 1492 bytes
+2025-11-04 11:59:48;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 11:59:48;Abs_box: 0.01563
+2025-11-04 11:59:48;Abs_intern: 0.00000
+2025-11-04 11:59:48;Auﬂenluft: 0.00391
+2025-11-04 11:59:49;Kochen: 0.00000
+2025-11-04 11:59:49;Luft: 0.00000
+2025-11-04 11:59:49;SchlechteLuft: 0.48828
+2025-11-04 11:59:49;ZigaretenrauchBox: 0.00391
+2025-11-04 11:59:49;ZigaretenrauchRaum: 0.48828
+2025-11-04 11:59:49;LED set to class 'SchlechteLuft' (0.49)
+2025-11-04 11:59:49;temperature=28.95∞C, barometer=1000.26hPa, humidity=41.00%, gas=66757.00,  temepKorkt=22.95, humKorkt=58.48
+2025-11-04 11:59:49;
+2025-11-04 11:59:49;Starting inferencing in 2 seconds...
+2025-11-04 11:59:50;Sampling...
+2025-11-04 11:59:50;Free heap memory: 1492 bytes
+2025-11-04 12:00:00;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 12:00:00;Abs_box: 0.00000
+2025-11-04 12:00:00;Abs_intern: 0.00000
+2025-11-04 12:00:00;Auﬂenluft: 0.00000
+2025-11-04 12:00:01;Kochen: 0.00000
+2025-11-04 12:00:01;Luft: 0.00000
+2025-11-04 12:00:01;SchlechteLuft: 0.00000
+2025-11-04 12:00:01;ZigaretenrauchBox: 0.00000
+2025-11-04 12:00:01;ZigaretenrauchRaum: 0.99609
+2025-11-04 12:00:01;LED set to class 'ZigaretenrauchRaum' (1.00)
+2025-11-04 12:00:01;temperature=29.02∞C, barometer=1000.26hPa, humidity=41.00%, gas=67237.00,  temepKorkt=23.02, humKorkt=58.47
+2025-11-04 12:00:01;
+2025-11-04 12:00:01;Starting inferencing in 2 seconds...
+2025-11-04 12:00:02;Sampling...
+2025-11-04 12:00:02;Free heap memory: 1492 bytes
+2025-11-04 12:00:12;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 12:00:12;Abs_box: 0.00000
+2025-11-04 12:00:12;Abs_intern: 0.00000
+2025-11-04 12:00:12;Auﬂenluft: 0.00000
+2025-11-04 12:00:13;Kochen: 0.00781
+2025-11-04 12:00:13;Luft: 0.00000
+2025-11-04 12:00:13;SchlechteLuft: 0.00781
+2025-11-04 12:00:13;ZigaretenrauchBox: 0.00000
+2025-11-04 12:00:13;ZigaretenrauchRaum: 0.98438
+2025-11-04 12:00:13;LED set to class 'ZigaretenrauchRaum' (0.98)
+2025-11-04 12:00:13;temperature=29.09∞C, barometer=1000.27hPa, humidity=41.00%, gas=75311.00,  temepKorkt=23.09, humKorkt=58.46
+2025-11-04 12:00:13;
+2025-11-04 12:00:13;Starting inferencing in 2 seconds...
+2025-11-04 12:00:14;Sampling...
+2025-11-04 12:00:14;Free heap memory: 1492 bytes
+2025-11-04 12:00:24;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 12:00:24;Abs_box: 0.00000
+2025-11-04 12:00:24;Abs_intern: 0.00000
+2025-11-04 12:00:24;Auﬂenluft: 0.00000
+2025-11-04 12:00:25;Kochen: 0.00000
+2025-11-04 12:00:25;Luft: 0.00000
+2025-11-04 12:00:25;SchlechteLuft: 0.00000
+2025-11-04 12:00:25;ZigaretenrauchBox: 0.00000
+2025-11-04 12:00:25;ZigaretenrauchRaum: 0.99609
+2025-11-04 12:00:25;LED set to class 'ZigaretenrauchRaum' (1.00)
+2025-11-04 12:00:25;temperature=29.15∞C, barometer=1000.27hPa, humidity=41.00%, gas=88285.00,  temepKorkt=23.15, humKorkt=58.45
+2025-11-04 12:00:25;
+2025-11-04 12:00:25;Starting inferencing in 2 seconds...
+2025-11-04 12:00:26;Sampling...
+2025-11-04 12:00:26;Free heap memory: 1492 bytes
+2025-11-04 12:00:36;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 12:00:36;Abs_box: 0.00000
+2025-11-04 12:00:36;Abs_intern: 0.00000
+2025-11-04 12:00:37;Auﬂenluft: 0.00000
+2025-11-04 12:00:37;Kochen: 0.00000
+2025-11-04 12:00:37;Luft: 0.99609
+2025-11-04 12:00:37;SchlechteLuft: 0.00000
+2025-11-04 12:00:37;ZigaretenrauchBox: 0.00000
+2025-11-04 12:00:37;ZigaretenrauchRaum: 0.00391
+2025-11-04 12:00:37;LED set to class 'Luft' (1.00)
+2025-11-04 12:00:37;temperature=29.23∞C, barometer=1000.26hPa, humidity=38.00%, gas=94664.00,  temepKorkt=23.23, humKorkt=54.16
+2025-11-04 12:00:37;
+2025-11-04 12:00:37;Starting inferencing in 2 seconds...
+2025-11-04 12:00:38;Sampling...
+2025-11-04 12:00:38;Free heap memory: 1492 bytes
+2025-11-04 12:00:48;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 12:00:48;Abs_box: 0.00000
+2025-11-04 12:00:48;Abs_intern: 0.00000
+2025-11-04 12:00:49;Auﬂenluft: 0.00000
+2025-11-04 12:00:49;Kochen: 0.00000
+2025-11-04 12:00:49;Luft: 0.99609
+2025-11-04 12:00:49;SchlechteLuft: 0.00000
+2025-11-04 12:00:49;ZigaretenrauchBox: 0.00000
+2025-11-04 12:00:49;ZigaretenrauchRaum: 0.00000
+2025-11-04 12:00:49;LED set to class 'Luft' (1.00)
+2025-11-04 12:00:49;temperature=29.34∞C, barometer=1000.19hPa, humidity=36.00%, gas=98897.00,  temepKorkt=23.34, humKorkt=51.29
+2025-11-04 12:00:49;
+2025-11-04 12:00:49;Starting inferencing in 2 seconds...
+2025-11-04 12:00:50;Sampling...
+2025-11-04 12:00:50;Free heap memory: 1492 bytes
+2025-11-04 12:01:00;TestPredictions (DSP: 3 ms., Classification: 2 ms., Anomaly: 0 ms.):
+2025-11-04 12:01:00;Abs_box: 0.00000
+2025-11-04 12:01:00;Abs_intern: 0.00000
+2025-11-04 12:01:01;Auﬂenluft: 0.00000
+2025-11-04 12:01:01;Kochen: 0.00000
+2025-11-04 12:01:01;Luft: 0.99609
+2025-11-04 12:01:01;SchlechteLuft: 0.00000
+2025-11-04 12:01:01;ZigaretenrauchBox: 0.00000
+2025-11-04 12:01:01;ZigaretenrauchRaum: 0.00000
+2025-11-04 12:01:01;LED set to class 'Luft' (1.00)
+2025-11-04 12:01:01;temperature=29.40∞C, barometer=1000.21hPa, humidity=35.00%, gas=104231.00,  temepKorkt=23.40, humKorkt=49.86
+2025-11-04 12:01:01;
+2025-11-04 12:01:01;Starting inferencing in 2 seconds...
+2025-11-04 12:01:02;Sampling...

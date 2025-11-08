@@ -1,0 +1,496 @@
+temperature: 30.42
+gas: 92972.00
+humidity: 35.00
+pressure: 989.07
+IAQ: 52, IAQ_s: 37
+VOCS: 0.60
+BSEC info: BSEC output values - iaq: 52   iaq_s: 37   b_voc_eq: 0.60   co2_eq: 548   accuracy: 1   comp_t: 30.33   comp_h: 35.26   comp_g: 5
+
+temperature: 30.55
+gas: 91157.00
+humidity: 36.00
+pressure: 989.11
+IAQ: 60, IAQ_s: 40
+VOCS: 0.63
+BSEC info: BSEC output values - iaq: 60   iaq_s: 40   b_voc_eq: 0.63   co2_eq: 562   accuracy: 1   comp_t: 30.47   comp_h: 36.00   comp_g: 5
+
+temperature: 30.67
+gas: 89890.00
+humidity: 36.00
+pressure: 989.15
+IAQ: 64, IAQ_s: 42
+VOCS: 0.64
+BSEC info: BSEC output values - iaq: 64   iaq_s: 42   b_voc_eq: 0.64   co2_eq: 568   accuracy: 1   comp_t: 30.59   comp_h: 34.92   comp_g: 5
+
+temperature: 30.73
+gas: 84469.00
+humidity: 35.00
+pressure: 989.19
+IAQ: 93, IAQ_s: 54
+VOCS: 0.78
+BSEC info: BSEC output values - iaq: 93   iaq_s: 54   b_voc_eq: 0.78   co2_eq: 619   accuracy: 1   comp_t: 30.61   comp_h: 35.02   comp_g: 5
+
+temperature: 30.82
+gas: 82805.00
+humidity: 35.00
+pressure: 989.06
+IAQ: 138, IAQ_s: 74
+VOCS: 1.06
+BSEC info: BSEC output values - iaq: 138   iaq_s: 74   b_voc_eq: 1.06   co2_eq: 747   accuracy: 1   comp_t: 30.74   comp_h: 34.94   comp_g: 5
+
+temperature: 30.88
+gas: 83297.00
+humidity: 35.00
+pressure: 989.07
+IAQ: 141, IAQ_s: 75
+VOCS: 1.08
+BSEC info: BSEC output values - iaq: 141   iaq_s: 75   b_voc_eq: 1.08   co2_eq: 759   accuracy: 1   comp_t: 30.80   comp_h: 34.96   comp_g: 5
+
+temperature: 30.82
+gas: 77249.00
+humidity: 35.00
+pressure: 989.06
+IAQ: 164, IAQ_s: 85
+VOCS: 1.25
+BSEC info: BSEC output values - iaq: 164   iaq_s: 85   b_voc_eq: 1.25   co2_eq: 858   accuracy: 1   comp_t: 30.75   comp_h: 35.13   comp_g: 5
+
+temperature: 30.92
+gas: 74181.00
+humidity: 35.00
+pressure: 989.07
+IAQ: 235, IAQ_s: 116
+VOCS: 2.00
+BSEC info: BSEC output values - iaq: 235   iaq_s: 116   b_voc_eq: 2.00   co2_eq: 1167   accuracy: 1   comp_t: 30.86   comp_h: 35.01   comp_g: 5
+
+temperature: 31.01
+gas: 71287.00
+humidity: 35.00
+pressure: 989.07
+IAQ: 273, IAQ_s: 135
+VOCS: 2.66
+BSEC info: BSEC output values - iaq: 273   iaq_s: 135   b_voc_eq: 2.66   co2_eq: 1356   accuracy: 1   comp_t: 30.92   comp_h: 34.99   comp_g: 5
+
+temperature: 31.08
+gas: 65355.00
+humidity: 35.00
+pressure: 989.06
+IAQ: 319, IAQ_s: 158
+VOCS: 3.77
+BSEC info: BSEC output values - iaq: 319   iaq_s: 158   b_voc_eq: 3.77   co2_eq: 1587   accuracy: 1   comp_t: 30.99   comp_h: 34.97   comp_g: 5
+
+temperature: 31.14
+gas: 59439.00
+humidity: 35.00
+pressure: 989.07
+IAQ: 421, IAQ_s: 209
+VOCS: 8.14
+BSEC info: BSEC output values - iaq: 421   iaq_s: 209   b_voc_eq: 8.14   co2_eq: 2096   accuracy: 1   comp_t: 31.07   comp_h: 34.98   comp_g: 5
+
+temperature: 31.20
+gas: 57252.00
+humidity: 35.00
+pressure: 989.09
+IAQ: 471, IAQ_s: 237
+VOCS: 12.34
+BSEC info: BSEC output values - iaq: 471   iaq_s: 237   b_voc_eq: 12.34   co2_eq: 2371   accuracy: 1   comp_t: 31.13   comp_h: 34.98   comp_g: 5
+
+temperature: 31.26
+gas: 57883.00
+humidity: 35.00
+pressure: 989.15
+IAQ: 487, IAQ_s: 248
+VOCS: 14.74
+BSEC info: BSEC output values - iaq: 487   iaq_s: 248   b_voc_eq: 14.74   co2_eq: 2488   accuracy: 1   comp_t: 31.18   comp_h: 34.99   comp_g: 5
+
+temperature: 30.86
+gas: 58528.00
+humidity: 35.00
+pressure: 989.17
+IAQ: 475, IAQ_s: 248
+VOCS: 14.58
+BSEC info: BSEC output values - iaq: 475   iaq_s: 248   b_voc_eq: 14.58   co2_eq: 2481   accuracy: 1   comp_t: 30.79   comp_h: 35.55   comp_g: 5
+
+temperature: 31.01
+gas: 59188.00
+humidity: 35.00
+pressure: 989.17
+IAQ: 460, IAQ_s: 244
+VOCS: 13.87
+BSEC info: BSEC output values - iaq: 460   iaq_s: 244   b_voc_eq: 13.87   co2_eq: 2448   accuracy: 1   comp_t: 30.93   comp_h: 35.16   comp_g: 5
+
+temperature: 31.07
+gas: 59105.00
+humidity: 35.00
+pressure: 989.11
+IAQ: 441, IAQ_s: 238
+VOCS: 12.64
+BSEC info: BSEC output values - iaq: 441   iaq_s: 238   b_voc_eq: 12.64   co2_eq: 2386   accuracy: 1   comp_t: 30.99   comp_h: 35.08   comp_g: 5
+
+temperature: 31.09
+gas: 61214.00
+humidity: 34.00
+pressure: 989.19
+IAQ: 420, IAQ_s: 231
+VOCS: 11.37
+BSEC info: BSEC output values - iaq: 420   iaq_s: 231   b_voc_eq: 11.37   co2_eq: 2317   accuracy: 1   comp_t: 31.00   comp_h: 35.10   comp_g: 5
+
+temperature: 31.18
+gas: 60903.00
+humidity: 35.00
+pressure: 989.21
+IAQ: 397, IAQ_s: 224
+VOCS: 10.12
+BSEC info: BSEC output values - iaq: 397   iaq_s: 224   b_voc_eq: 10.12   co2_eq: 2240   accuracy: 1   comp_t: 31.11   comp_h: 34.99   comp_g: 5
+
+temperature: 31.28
+gas: 62535.00
+humidity: 34.00
+pressure: 989.25
+IAQ: 384, IAQ_s: 220
+VOCS: 9.55
+BSEC info: BSEC output values - iaq: 384   iaq_s: 220   b_voc_eq: 9.55   co2_eq: 2201   accuracy: 1   comp_t: 31.20   comp_h: 33.95   comp_g: 5
+
+temperature: 31.35
+gas: 62768.00
+humidity: 34.00
+pressure: 989.25
+IAQ: 361, IAQ_s: 210
+VOCS: 8.26
+BSEC info: BSEC output values - iaq: 361   iaq_s: 210   b_voc_eq: 8.26   co2_eq: 2106   accuracy: 1   comp_t: 31.27   comp_h: 33.97   comp_g: 5
+
+temperature: 31.43
+gas: 63720.00
+humidity: 34.00
+pressure: 989.21
+IAQ: 342, IAQ_s: 204
+VOCS: 7.49
+BSEC info: BSEC output values - iaq: 342   iaq_s: 204   b_voc_eq: 7.49   co2_eq: 2040   accuracy: 1   comp_t: 31.36   comp_h: 33.96   comp_g: 5
+
+temperature: 31.48
+gas: 63146.00
+humidity: 34.00
+pressure: 989.19
+IAQ: 333, IAQ_s: 201
+VOCS: 7.22
+BSEC info: BSEC output values - iaq: 333   iaq_s: 201   b_voc_eq: 7.22   co2_eq: 2016   accuracy: 2   comp_t: 31.41   comp_h: 33.97   comp_g: 5
+
+temperature: 31.54
+gas: 63527.00
+humidity: 34.00
+pressure: 989.13
+IAQ: 324, IAQ_s: 199
+VOCS: 6.95
+BSEC info: BSEC output values - iaq: 324   iaq_s: 199   b_voc_eq: 6.95   co2_eq: 1991   accuracy: 2   comp_t: 31.45   comp_h: 34.02   comp_g: 5
+
+temperature: 31.58
+gas: 64453.00
+humidity: 34.00
+pressure: 989.21
+IAQ: 314, IAQ_s: 196
+VOCS: 6.70
+BSEC info: BSEC output values - iaq: 314   iaq_s: 196   b_voc_eq: 6.70   co2_eq: 1967   accuracy: 2   comp_t: 31.50   comp_h: 34.02   comp_g: 5
+
+temperature: 31.61
+gas: 65001.00
+humidity: 34.00
+pressure: 989.19
+IAQ: 304, IAQ_s: 193
+VOCS: 6.33
+BSEC info: BSEC output values - iaq: 304   iaq_s: 193   b_voc_eq: 6.33   co2_eq: 1930   accuracy: 2   comp_t: 31.54   comp_h: 34.04   comp_g: 5
+
+temperature: 31.64
+gas: 65610.00
+humidity: 33.00
+pressure: 989.11
+IAQ: 292, IAQ_s: 188
+VOCS: 5.91
+BSEC info: BSEC output values - iaq: 292   iaq_s: 188   b_voc_eq: 5.91   co2_eq: 1883   accuracy: 2   comp_t: 31.56   comp_h: 34.05   comp_g: 5
+
+temperature: 31.30
+gas: 66493.00
+humidity: 33.00
+pressure: 989.17
+IAQ: 281, IAQ_s: 184
+VOCS: 5.57
+BSEC info: BSEC output values - iaq: 281   iaq_s: 184   b_voc_eq: 5.57   co2_eq: 1845   accuracy: 2   comp_t: 31.27   comp_h: 33.54   comp_g: 5
+
+temperature: 31.41
+gas: 67399.00
+humidity: 34.00
+pressure: 989.17
+IAQ: 269, IAQ_s: 179
+VOCS: 5.14
+BSEC info: BSEC output values - iaq: 269   iaq_s: 179   b_voc_eq: 5.14   co2_eq: 1792   accuracy: 2   comp_t: 31.33   comp_h: 34.24   comp_g: 5
+
+temperature: 31.48
+gas: 67507.00
+humidity: 33.00
+pressure: 989.11
+IAQ: 256, IAQ_s: 173
+VOCS: 4.71
+BSEC info: BSEC output values - iaq: 256   iaq_s: 173   b_voc_eq: 4.71   co2_eq: 1734   accuracy: 2   comp_t: 31.39   comp_h: 34.11   comp_g: 5
+
+temperature: 31.53
+gas: 68331.00
+humidity: 33.00
+pressure: 989.25
+IAQ: 247, IAQ_s: 169
+VOCS: 4.45
+BSEC info: BSEC output values - iaq: 247   iaq_s: 169   b_voc_eq: 4.45   co2_eq: 1696   accuracy: 2   comp_t: 31.45   comp_h: 34.06   comp_g: 5
+
+temperature: 31.30
+gas: 70509.00
+humidity: 33.00
+pressure: 989.15
+IAQ: 242, IAQ_s: 166
+VOCS: 4.22
+BSEC info: BSEC output values - iaq: 242   iaq_s: 166   b_voc_eq: 4.22   co2_eq: 1661   accuracy: 2   comp_t: 31.25   comp_h: 33.35   comp_g: 5
+
+temperature: 31.07
+gas: 74642.00
+humidity: 34.00
+pressure: 989.21
+IAQ: 210, IAQ_s: 145
+VOCS: 3.08
+BSEC info: BSEC output values - iaq: 210   iaq_s: 145   b_voc_eq: 3.08   co2_eq: 1454   accuracy: 2   comp_t: 30.99   comp_h: 34.47   comp_g: 5
+
+temperature: 31.01
+gas: 79590.00
+humidity: 34.00
+pressure: 989.19
+IAQ: 170, IAQ_s: 119
+VOCS: 2.08
+BSEC info: BSEC output values - iaq: 170   iaq_s: 119   b_voc_eq: 2.08   co2_eq: 1195   accuracy: 2   comp_t: 30.90   comp_h: 34.43   comp_g: 5
+
+temperature: 31.01
+gas: 82886.00
+humidity: 33.00
+pressure: 989.15
+IAQ: 126, IAQ_s: 91
+VOCS: 1.35
+BSEC info: BSEC output values - iaq: 126   iaq_s: 91   b_voc_eq: 1.35   co2_eq: 910   accuracy: 2   comp_t: 30.95   comp_h: 33.23   comp_g: 5
+
+temperature: 30.85
+gas: 85587.00
+humidity: 33.00
+pressure: 989.21
+IAQ: 99, IAQ_s: 73
+VOCS: 1.03
+BSEC info: BSEC output values - iaq: 99   iaq_s: 73   b_voc_eq: 1.03   co2_eq: 730   accuracy: 2   comp_t: 30.90   comp_h: 33.23   comp_g: 5
+
+temperature: 30.28
+gas: 88377.00
+humidity: 33.00
+pressure: 989.07
+IAQ: 78, IAQ_s: 59
+VOCS: 0.84
+BSEC info: BSEC output values - iaq: 78   iaq_s: 59   b_voc_eq: 0.84   co2_eq: 638   accuracy: 3   comp_t: 30.50   comp_h: 33.56   comp_g: 5
+
+temperature: 29.87
+gas: 90276.00
+humidity: 34.00
+pressure: 989.15
+IAQ: 58, IAQ_s: 46
+VOCS: 0.69
+BSEC info: BSEC output values - iaq: 58   iaq_s: 46   b_voc_eq: 0.69   co2_eq: 586   accuracy: 3   comp_t: 29.79   comp_h: 34.89   comp_g: 5
+
+temperature: 30.06
+gas: 92359.00
+humidity: 34.00
+pressure: 989.17
+IAQ: 48, IAQ_s: 40
+VOCS: 0.62
+BSEC info: BSEC output values - iaq: 48   iaq_s: 40   b_voc_eq: 0.62   co2_eq: 560   accuracy: 3   comp_t: 29.95   comp_h: 34.28   comp_g: 5
+
+temperature: 30.22
+gas: 93075.00
+humidity: 34.00
+pressure: 989.25
+IAQ: 38, IAQ_s: 33
+VOCS: 0.56
+BSEC info: BSEC output values - iaq: 38   iaq_s: 33   b_voc_eq: 0.56   co2_eq: 533   accuracy: 3   comp_t: 30.11   comp_h: 34.01   comp_g: 5
+
+temperature: 30.32
+gas: 94223.00
+humidity: 34.00
+pressure: 989.25
+IAQ: 25, IAQ_s: 25
+VOCS: 0.49
+BSEC info: BSEC output values - iaq: 25   iaq_s: 25   b_voc_eq: 0.49   co2_eq: 500   accuracy: 2   comp_t: 30.25   comp_h: 33.92   comp_g: 5
+
+temperature: 30.46
+gas: 94754.00
+humidity: 33.00
+pressure: 989.27
+IAQ: 24, IAQ_s: 24
+VOCS: 0.49
+BSEC info: BSEC output values - iaq: 24   iaq_s: 24   b_voc_eq: 0.49   co2_eq: 498   accuracy: 2   comp_t: 30.38   comp_h: 32.88   comp_g: 5
+
+temperature: 30.53
+gas: 94012.00
+humidity: 33.00
+pressure: 989.19
+IAQ: 24, IAQ_s: 24
+VOCS: 0.49
+BSEC info: BSEC output values - iaq: 24   iaq_s: 24   b_voc_eq: 0.49   co2_eq: 499   accuracy: 2   comp_t: 30.45   comp_h: 32.91   comp_g: 5
+
+temperature: 30.62
+gas: 95291.00
+humidity: 33.00
+pressure: 989.17
+IAQ: 26, IAQ_s: 25
+VOCS: 0.50
+BSEC info: BSEC output values - iaq: 26   iaq_s: 25   b_voc_eq: 0.50   co2_eq: 502   accuracy: 2   comp_t: 30.54   comp_h: 32.94   comp_g: 5
+
+temperature: 30.69
+gas: 95399.00
+humidity: 33.00
+pressure: 989.19
+IAQ: 29, IAQ_s: 28
+VOCS: 0.52
+BSEC info: BSEC output values - iaq: 29   iaq_s: 28   b_voc_eq: 0.52   co2_eq: 513   accuracy: 2   comp_t: 30.61   comp_h: 32.94   comp_g: 5
+
+temperature: 30.67
+gas: 94541.00
+humidity: 34.00
+pressure: 989.25
+IAQ: 36, IAQ_s: 32
+VOCS: 0.55
+BSEC info: BSEC output values - iaq: 36   iaq_s: 32   b_voc_eq: 0.55   co2_eq: 529   accuracy: 2   comp_t: 30.63   comp_h: 33.03   comp_g: 5
+
+temperature: 30.65
+gas: 90276.00
+humidity: 34.00
+pressure: 989.23
+IAQ: 45, IAQ_s: 38
+VOCS: 0.61
+BSEC info: BSEC output values - iaq: 45   iaq_s: 38   b_voc_eq: 0.61   co2_eq: 554   accuracy: 2   comp_t: 30.59   comp_h: 34.11   comp_g: 5
+
+temperature: 30.60
+gas: 89317.00
+humidity: 34.00
+pressure: 989.21
+IAQ: 63, IAQ_s: 51
+VOCS: 0.74
+BSEC info: BSEC output values - iaq: 63   iaq_s: 51   b_voc_eq: 0.74   co2_eq: 604   accuracy: 2   comp_t: 30.54   comp_h: 34.18   comp_g: 5
+
+temperature: 30.57
+gas: 88470.00
+humidity: 35.00
+pressure: 989.23
+IAQ: 69, IAQ_s: 55
+VOCS: 0.78
+BSEC info: BSEC output values - iaq: 69   iaq_s: 55   b_voc_eq: 0.78   co2_eq: 620   accuracy: 2   comp_t: 30.48   comp_h: 34.22   comp_g: 5
+
+temperature: 30.56
+gas: 89222.00
+humidity: 35.00
+pressure: 989.17
+IAQ: 67, IAQ_s: 53
+VOCS: 0.76
+BSEC info: BSEC output values - iaq: 67   iaq_s: 53   b_voc_eq: 0.76   co2_eq: 614   accuracy: 3   comp_t: 30.48   comp_h: 35.22   comp_g: 5
+
+temperature: 30.55
+gas: 88845.00
+humidity: 35.00
+pressure: 989.15
+IAQ: 65, IAQ_s: 52
+VOCS: 0.75
+BSEC info: BSEC output values - iaq: 65   iaq_s: 52   b_voc_eq: 0.75   co2_eq: 608   accuracy: 3   comp_t: 30.47   comp_h: 35.19   comp_g: 5
+
+temperature: 30.57
+gas: 87732.00
+humidity: 35.00
+pressure: 989.17
+IAQ: 71, IAQ_s: 55
+VOCS: 0.79
+BSEC info: BSEC output values - iaq: 71   iaq_s: 55   b_voc_eq: 0.79   co2_eq: 623   accuracy: 3   comp_t: 30.52   comp_h: 35.11   comp_g: 5
+
+temperature: 30.57
+gas: 86736.00
+humidity: 35.00
+pressure: 989.19
+IAQ: 79, IAQ_s: 61
+VOCS: 0.86
+BSEC info: BSEC output values - iaq: 79   iaq_s: 61   b_voc_eq: 0.86   co2_eq: 644   accuracy: 3   comp_t: 30.49   comp_h: 35.15   comp_g: 5
+
+temperature: 30.57
+gas: 84896.00
+humidity: 35.00
+pressure: 989.13
+IAQ: 89, IAQ_s: 67
+VOCS: 0.95
+BSEC info: BSEC output values - iaq: 89   iaq_s: 67   b_voc_eq: 0.95   co2_eq: 679   accuracy: 3   comp_t: 30.52   comp_h: 35.12   comp_g: 5
+
+temperature: 30.58
+gas: 85414.00
+humidity: 35.00
+pressure: 989.13
+IAQ: 89, IAQ_s: 68
+VOCS: 0.96
+BSEC info: BSEC output values - iaq: 89   iaq_s: 68   b_voc_eq: 0.96   co2_eq: 683   accuracy: 3   comp_t: 30.52   comp_h: 35.11   comp_g: 5
+
+temperature: 30.57
+gas: 84982.00
+humidity: 35.00
+pressure: 989.21
+IAQ: 88, IAQ_s: 67
+VOCS: 0.95
+BSEC info: BSEC output values - iaq: 88   iaq_s: 67   b_voc_eq: 0.95   co2_eq: 676   accuracy: 3   comp_t: 30.52   comp_h: 35.12   comp_g: 5
+
+temperature: 30.55
+gas: 84896.00
+humidity: 35.00
+pressure: 989.21
+IAQ: 94, IAQ_s: 71
+VOCS: 1.01
+BSEC info: BSEC output values - iaq: 94   iaq_s: 71   b_voc_eq: 1.01   co2_eq: 718   accuracy: 3   comp_t: 30.49   comp_h: 35.15   comp_g: 5
+
+temperature: 30.52
+gas: 87549.00
+humidity: 35.00
+pressure: 989.17
+IAQ: 81, IAQ_s: 62
+VOCS: 0.88
+BSEC info: BSEC output values - iaq: 81   iaq_s: 62   b_voc_eq: 0.88   co2_eq: 650   accuracy: 3   comp_t: 30.45   comp_h: 35.18   comp_g: 5
+
+temperature: 30.57
+gas: 89507.00
+humidity: 34.00
+pressure: 989.19
+IAQ: 66, IAQ_s: 52
+VOCS: 0.75
+BSEC info: BSEC output values - iaq: 66   iaq_s: 52   b_voc_eq: 0.75   co2_eq: 609   accuracy: 3   comp_t: 30.50   comp_h: 34.08   comp_g: 5
+
+temperature: 30.62
+gas: 91058.00
+humidity: 34.00
+pressure: 989.21
+IAQ: 49, IAQ_s: 41
+VOCS: 0.63
+BSEC info: BSEC output values - iaq: 49   iaq_s: 41   b_voc_eq: 0.63   co2_eq: 564   accuracy: 3   comp_t: 30.54   comp_h: 34.06   comp_g: 5
+
+temperature: 30.65
+gas: 91554.00
+humidity: 34.00
+pressure: 989.15
+IAQ: 44, IAQ_s: 38
+VOCS: 0.61
+BSEC info: BSEC output values - iaq: 44   iaq_s: 38   b_voc_eq: 0.61   co2_eq: 553   accuracy: 3   comp_t: 30.54   comp_h: 34.10   comp_g: 5
+
+temperature: 30.61
+gas: 89794.00
+humidity: 34.00
+pressure: 989.13
+IAQ: 47, IAQ_s: 39
+VOCS: 0.62
+BSEC info: BSEC output values - iaq: 47   iaq_s: 39   b_voc_eq: 0.62   co2_eq: 559   accuracy: 3   comp_t: 30.58   comp_h: 34.07   comp_g: 5
+
+temperature: 30.62
+gas: 91058.00
+humidity: 34.00
+pressure: 989.13
+IAQ: 45, IAQ_s: 38
+VOCS: 0.61
+BSEC info: BSEC output values - iaq: 45   iaq_s: 38   b_voc_eq: 0.61   co2_eq: 554   accuracy: 3   comp_t: 30.52   comp_h: 34.15   comp_g: 5
+
